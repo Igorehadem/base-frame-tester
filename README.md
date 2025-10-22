@@ -5,3 +5,6 @@ Minimal Farcaster Frame scaffold to test metadata/cards and button flow for a fu
 - Host `frame.html` on any static hosting
 - Update `fc:frame:post_url` to your endpoint
 - Share the `frame.html` URL in a cast to see the Frame
+## Related
+- https://github.com/Igorehadem/talent-protocol-roadmap
+- https://github.com/Igorehadem/farcaster-bot-starter
