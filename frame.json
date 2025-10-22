@@ -1,0 +1,7 @@
+{
+  "name": "Base Frame Tester",
+  "version": "0.1.0",
+  "schema": "vNext",
+  "buttons": ["Ping", "Visit Repo"],
+  "post_url": "https://example.com/api/frame"
+}
