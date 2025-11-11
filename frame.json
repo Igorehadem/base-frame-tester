@@ -1,7 +1,9 @@
 {
   "name": "Base Frame Tester",
+  "description": "Minimal frame metadata example for Farcaster testing.",
   "version": "0.1.0",
   "schema": "vNext",
   "buttons": ["Ping", "Visit Repo"],
-  "post_url": "https://example.com/api/frame"
+  "post_url": "https://example.com/api/frame",
+  "preview": "https://placehold.co/600x315?text=Frame+Preview"
 }
