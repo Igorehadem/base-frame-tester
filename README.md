@@ -57,3 +57,9 @@ base-frame-tester/
 - [ ] Add BaseToken frame example  
 - [ ] Simulate cast trigger  
 - [ ] Integrate with Farcaster bot autopost
+
+---
+
+## 🙌 Credits
+Maintained by [@Igorehadem](https://github.com/Igorehadem) — part of the Builder ecosystem.
+
